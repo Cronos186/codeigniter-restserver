@@ -18,6 +18,7 @@
 	},
 	"autoload": {
 		"classmap": [
+			"application/libraries/Format.php",
 			"application/libraries/REST_Controller.php"
 		]
 	}
