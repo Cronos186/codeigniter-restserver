@@ -1,25 +1,23 @@
 {
 	"description": "REST Server for the CodeIgniter framework",
-	"name": "chriskacerguis/codeigniter-restserver",
+	"name": "cronos186/codeigniter-restserver",
 	"type": "library",
-	"homepage": "https://github.com/chriskacerguis/codeigniter-restserver",
+	"homepage": "https://github.com/Cronos186/codeigniter-restserver",
 	"authors": [
 		{
-			"name": "Chris Kacerguis",
+			"name": "Ernesto Giraldo",
 			"role": "Developer"
 		}
 	],
 	"license": "MIT",
 	"support": {
-		"source": "https://github.com/chriskacerguis/codeigniter-restserver"
+		"source": "https://github.com/Cronos186/codeigniter-restserver"
 	},
 	"require": {
-		"php": ">=5.4.0",
-		"codeigniter/framework": "^3.0.4"
+		"php": ">=5.4.0"
 	},
 	"autoload": {
 		"classmap": [
-			"application/libraries/Format.php",
 			"application/libraries/REST_Controller.php"
 		]
 	}
